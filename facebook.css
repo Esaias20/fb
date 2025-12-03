@@ -1,6 +1,6 @@
 @media only screen and (max-width:500px){
     .contents, .fb-image{
-        transform: scale(2);
+        transform: scale(3);
     }
 }
 
@@ -141,4 +141,5 @@
 .top:hover,.bottom:hover{
     text-decoration: underline;
 }
+
 
