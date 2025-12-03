@@ -50,6 +50,7 @@
 .instruction-text{
     font-size: 22px;
     font-family: arial, roboto;
+    color: white;
 }
 .address-bar{
    height: 50px;
@@ -144,6 +145,7 @@
 .top:hover,.bottom:hover{
     text-decoration: underline;
 }
+
 
 
 
